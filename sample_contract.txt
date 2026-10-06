@@ -1,0 +1,16 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+1. CONFIDENTIAL INFORMATION
+Each party agrees to hold all Confidential Information in strict confidence. Confidential Information includes all technical, financial, and business data disclosed by one party to the other.
+
+2. TERM AND TERMINATION
+This Agreement shall remain in effect for a period of ten (10) years from the Effective Date. Either party may terminate this Agreement upon 30 days written notice.
+
+3. LIMITATION OF LIABILITY
+NEITHER PARTY SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES. THE TOTAL AGGREGATE LIABILITY OF EITHER PARTY UNDER THIS AGREEMENT SHALL NOT EXCEED $100.
+
+4. INDEMNIFICATION
+Recipient agrees to indemnify, defend, and hold harmless the Disclosing Party against any and all claims, liabilities, losses, and legal fees arising out of any breach of this Agreement by Recipient.
+
+5. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles. Any dispute shall be resolved exclusively in the courts of New York.
